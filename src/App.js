@@ -6,7 +6,7 @@ import { GlobalStyles } from "./components/style/Global";
 const theme = {
   colors: {
     header: "blue",
-    body: "green",
+    body: "brown",
     footer: "black",
   },
 };
